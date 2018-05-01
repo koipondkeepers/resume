@@ -46,6 +46,6 @@ Parsippany, NJ
 - Responsible for meeting minutes documentation, team coordination, client communication and managerial assistance by request
 
 ## Education
-Rutgers University, BA: Information Technology & Informatics, 2016  
+Rutgers University (New Brunswick), BA: Information Technology & Informatics, 2016  
 ES6 for Everyone, 2018  
 React for Beginners, 2018
